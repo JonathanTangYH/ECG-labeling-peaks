@@ -1,4 +1,4 @@
-# ECG-labeling-peaks
+# ECG-signal processing
 
 (English version)
 
